@@ -1,0 +1,11 @@
+
+.tmp/
+.vscode/
+aw-image-build/build/
+aw-image-build/out/
+aw-image-build/toolchains/
+aw-image-build/others/
+#source/
+
+debian-archive-keyring_2023.4_all.deb
+debootstrap_1.0.134_all.deb
